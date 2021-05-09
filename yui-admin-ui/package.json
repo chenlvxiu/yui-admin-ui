@@ -30,7 +30,7 @@
     "gulp-sass": "^4.0.2",
     "gulp-shell": "0.6.5",
     "js-md5": "^0.7.3",
-    "lodash": "4.17.5",
+    "lodash": "4.17.21",
     "node-sass": "4.9.0",
     "pdfjs-dist": "^2.0.943",
     "qs": "^6.5.2",
